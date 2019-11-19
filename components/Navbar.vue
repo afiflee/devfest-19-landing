@@ -35,7 +35,7 @@
                 </ul>
                 <div>
                     <nuxt-link to="/#call-to-action">
-                        <button class="btn btn-primary">Register Now!</button>
+                        <button class="btn btn-primary">Register</button>
                     </nuxt-link>
                 </div>
             </div>
