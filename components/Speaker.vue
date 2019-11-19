@@ -18,17 +18,17 @@
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 text-center">
-                    <img src="../assets/img/speakers/ivan.jpg" alt="">
-                    <div>
-                        <h5>Ivan Kristianto</h5>
-                            <p>Google Developer Expert <br> of Web Technologies</p>
-                    </div>
-                </div>
-                <div class="col-6 col-lg-3 text-center">
                     <img src="../assets/img/speakers/sonja.jpg" alt="">
                     <div>
                         <h5>Sonja Johar</h5>
                         <p>CTO <br> of Halosis</p>
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3 text-center">
+                    <img src="../assets/img/speakers/ivan.jpg" alt="">
+                    <div>
+                        <h5>Ivan Kristianto</h5>
+                            <p>Google Developer Expert <br> of Web Technologies</p>
                     </div>
                 </div>
             </div>
