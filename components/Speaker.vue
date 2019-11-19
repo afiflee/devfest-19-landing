@@ -4,31 +4,31 @@
             <h2>Speakers</h2>
             <div class="row">
                 <div class="col-6 col-lg-3 text-center">
-                    <img src="../assets/img/speakers/aiya.jpg" alt="">
-                    <div>
-                        <h5>Aiya Mukhamedsalova</h5>
-                        <p>Front-End Developer <br> at Seek Asia</p>
-                    </div>
-                </div>
-                <div class="col-6 col-lg-3 text-center">
-                    <img src="../assets/img/speakers/raka.png" alt="">
-                    <div>
-                        <h5>Raka Adi Nugroho</h5>
-                        <p>Senior Software Engineer <br> at Tokopedia</p>
-                    </div>
-                </div>
-                <div class="col-6 col-lg-3 text-center">
                     <img src="../assets/img/speakers/anbita.jpeg" alt="">
                     <div>
                         <h5>Anbita Nadine Siregar</h5>
-                            <p>Founder <br> of Generation Girl</p>
+                        <p>Founder <br>of Generation Girl</p>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 text-center">
-                    <img src="../assets/img/speakers/dimas.jpeg" alt="">
+                    <img src="../assets/img/speakers/denny.jpeg" alt="">
                     <div>
-                        <h5>Dimas Aryo Prakoso</h5>
-                        <p>Senior DevProd Engineer <br> at Sorabel by Sale Stock</p>
+                        <h5>Denny Muktar</h5>
+                        <p>Cloud Customer Consultant <br> at Google</p>
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3 text-center">
+                    <img src="../assets/img/speakers/ivan.jpg" alt="">
+                    <div>
+                        <h5>Ivan Kristianto</h5>
+                            <p>Google Developer Expert <br> of Web Technologies</p>
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3 text-center">
+                    <img src="../assets/img/speakers/sonja.jpg" alt="">
+                    <div>
+                        <h5>Sonja Johar</h5>
+                        <p>CTO <br> of Halosis</p>
                     </div>
                 </div>
             </div>

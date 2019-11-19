@@ -2,7 +2,7 @@
     <div id="navbar">
         <nav class="navbar navbar-expand-lg navbar-light fixed-top pl-5 pr-5">
             <div class="navbar-brand" href="#">
-                <nuxt-link to="/"><img src="../assets/img/gdg-jogjakarta-logo.svg" alt="" class="w-100"></nuxt-link>
+                <nuxt-link to="/"><img src="../assets/img/gdg-jakarta-logo.svg" alt="" class="w-100"></nuxt-link>
             </div>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -15,6 +15,9 @@
                     </li>
                     <li class="nav-item">
                         <div class="nav-link"><nuxt-link to="/schedule">Schedule</nuxt-link></div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" target="_blank" href="https://devfest.withgoogle.com/code-of-conduct">Code of Conduct</a>
                     </li>
                     <!--
                     <li class="nav-item dropdown">

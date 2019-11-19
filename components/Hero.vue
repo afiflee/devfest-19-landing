@@ -5,8 +5,9 @@
                 <div class="hero-content">
                     <img src="../assets/img/devfest-logo.svg" alt=""><br>
                     <div class="hero-desc">
-                        <p class="mb-2">Yogyakarta, November 16, 2019</p>
-                        <p>Gedung Kuliah Umum Dr. Sardjito, <br> Universitas Islam Indonesia</p>
+                        <p class="mb-2">Jakarta, November 23, 2019</p>
+                        <p><b>Upperroom Jakarta</b></p> 
+                        <p class="address">Annex Building Lantai 10-12, <br> Jl. M.H. Thamrin No.59, Gondangdia, <br> Kec. Menteng, Kota Jakarta Pusat, DKI Jakarta</p>
                     </div>
                 </div>
             </div>
@@ -37,6 +38,9 @@
                         font-size: 19px
                         margin-bottom: 0
                         font-weight: 300
+                    .address
+                        font-size: 16px
+                        margin-top: 10px
         .scroll-down
             position: absolute
             left: 49%

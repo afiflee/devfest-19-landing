@@ -5,188 +5,168 @@
                 <div class="col-6 col-lg-3">
                     <div class="card">
                         <div class="card-image">
-                            <img src="../assets/img/speakers/aiya.jpg" alt="" class="w-100">
-                        </div>
-                        <div class="card-title">
-                            <h5>Aiya Mukhamedsalova</h5>
-                            <p>Front-End Developer <br> at Seek Asia</p>
-                            <ul>
-                                <li><a href="https://www.linkedin.com/in/aiya-mukhamedsalova-9865b412a/" target="_blank"><i class="icon-linkedin"></i></a></li>
-                                <li><a href="https://medium.com/@aiyamukhamedsalova" target="_blank"><i class="icon-medium"></i></a></li>
-                                <li><a href="https://www.instagram.com/sleeping.beauty.a/" target="_blank"><i class="icon-instagram"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-6 col-lg-3">
-                    <div class="card">
-                        <div class="card-image">
-                            <img src="../assets/img/speakers/raka.png" alt="" class="w-100">
-                        </div>
-                        <div class="card-title">
-                            <h5>Raka Adhi Nugroho</h5>
-                            <p>Senior Software Engineer <br> at Tokopedia</p>
-                            <ul>
-                                <li><a href="https://www.linkedin.com/in/rakaadinugroho" target="_blank"><i class="icon-linkedin"></i></a></li>
-                                <li><a href="https://medium.com/@rakaadinugroho" target="_blank"><i class="icon-medium"></i></a></li>
-                                <li><a href="https://twitter.com/rakaadin" target="_blank"><i class="icon-twitter"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-6 col-lg-3">
-                    <div class="card">
-                        <div class="card-image">
                             <img src="../assets/img/speakers/anbita.jpeg" alt="" class="w-100">
                         </div>
                         <div class="card-title">
                             <h5>Anbita Nadine Siregar</h5>
                             <p>Founder <br> of Generation Girl</p>
-                            <ul>
+                            <!-- <ul>
                                 <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-linkedin"></i></a></li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="card">
                         <div class="card-image">
-                            <img src="../assets/img/speakers/wahidyan.jpeg" alt="" class="w-100">
+                            <img src="../assets/img/speakers/andrew.jpg" alt="" class="w-100">
                         </div>
                         <div class="card-title">
-                            <h5>Wahidyan Kresna Fridayoka</h5>
-                            <p>Senior Front End Engineer <br> at RuangGuru</p>
-                            <ul>
-                                <li><a href="https://www.linkedin.com/in/wahidyan-kresna-fridayoka" target="_blank"><i class="icon-linkedin"></i></a></li>
-                                <li><a href="https://github.com/wahidyankf" target="_blank"><i class="icon-github"></i></a></li>
-                            </ul>
+                            <h5>Andrew Kurniadi</h5>
+                            <p>Google Developer Expert <br> of Android</p>
+                            <!-- <ul>
+                                <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-linkedin"></i></a></li>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="card">
                         <div class="card-image">
-                            <img src="../assets/img/speakers/dimas.jpeg" alt="" class="w-100">
+                            <img src="../assets/img/speakers/denny.jpeg" alt="" class="w-100">
                         </div>
                         <div class="card-title">
-                            <h5>Dimas Aryo Prakoso</h5>
-                            <p>Senior DevProd Engineer <br> at Sorabel by Sale Stock</p>
-                            <ul>
-                                <li><a href="https://www.linkedin.com/in/dimasaryo" target="_blank"><i class="icon-linkedin"></i></a></li>
-                            </ul>
+                            <h5>Danny Muktar</h5>
+                            <p> Cloud Customer Consultant <br> at Google</p>
+                            <!-- <ul>
+                                <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-linkedin"></i></a></li>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="card">
                         <div class="card-image">
-                            <img src="../assets/img/speakers/heri.jpeg" alt="" class="w-100">
+                            <img src="../assets/img/speakers/esa.jpg" alt="" class="w-100">
                         </div>
                         <div class="card-title">
-                            <h5>Heri Sulistiyanto</h5>
-                            <p>Senior Android Developer <br> at RuangGuru</p>
-                            <ul>
-                                <li><a href="https://www.linkedin.com/in/heri-sulistiyanto-85257772" target="_blank"><i class="icon-linkedin"></i></a></li>
-                                <li><a href="https://medium.com/@heri.sulis" target="_blank"><i class="icon-medium"></i></a></li>
-                            </ul>
+                            <h5>Esa Firman</h5>
+                            <p>Mobile Developer<br> at Bukalapak</p>
+                            <!-- <ul>
+                                <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-linkedin"></i></a></li>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="card">
                         <div class="card-image">
-                            <img src="../assets/img/speakers/randy.jpg" alt="" class="w-100">
+                            <img src="../assets/img/speakers/henry.jpg" alt="" class="w-100">
                         </div>
                         <div class="card-title">
-                            <h5>Randy Arba Pahlevi</h5>
-                            <p>Android Developer <br> at A Job Thing</p>
-                            <ul>
-                                <li><a href="https://www.linkedin.com/in/leviaran" target="_blank"><i class="icon-linkedin"></i></a></li>
-                            </ul>
+                            <h5>Henry Priyono</h5>
+                            <p>Senior Software Engineer<br> at Tokopedia</p>
+                            <!-- <ul>
+                                <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-linkedin"></i></a></li>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="card">
                         <div class="card-image">
-                            <img src="../assets/img/speakers/tesya.jpeg" alt="" class="w-100">
+                            <img src="../assets/img/speakers/ibnu.jpg" alt="" class="w-100">
                         </div>
                         <div class="card-title">
-                            <h5>Tesya Nurintan</h5>
-                            <p>Women Techmakers Ambassador <br> Jogjakarta</p>
-                            <ul>
-                                <li><a href="https://www.linkedin.com/in/tesyant/" target="_blank"><i class="icon-linkedin"></i></a></li>
-                            </ul>
+                            <h5>Ibnu Sina Wardy</h5>
+                            <p>Founder<br>of Gits Indonesia</p>
+                            <!-- <ul>
+                                <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-linkedin"></i></a></li>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="card">
                         <div class="card-image">
-                            <img src="../assets/img/speakers/bekti.jpeg" alt="" class="w-100">
+                            <img src="../assets/img/speakers/ivan.jpg" alt="" class="w-100">
                         </div>
                         <div class="card-title">
-                            <h5>Bekti Andhana</h5>
-                            <p>AI Engineer <br> at Neurabot</p>
-                            <ul>
-                                <li><a href="https://www.linkedin.com/in/bekti-andhana-68535074" target="_blank"><i class="icon-linkedin"></i></a></li>
-                            </ul>
+                            <h5>Ivan Kristianto</h5>
+                            <p>Google Developer Expert<br>of Web Technologies</p>
+                            <!-- <ul>
+                                <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-linkedin"></i></a></li>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="card">
                         <div class="card-image">
-                            <img src="../assets/img/speakers/amien.jpeg" alt="" class="w-100">
+                            <img src="../assets/img/speakers/janice.jpg" alt="" class="w-100">
                         </div>
                         <div class="card-title">
-                            <h5>Nashihun Amien</h5>
-                            <p>Site Reliability Engineer <br> at Universitas Islam Indonesia</p>
-                            <ul>
-                                <li><a href="https://www.linkedin.com/in/nashihunamien/" target="_blank"><i class="icon-linkedin"></i></a></li>
-                            </ul>
+                            <h5>Janice Kartika</h5>
+                            <p>Software Engineer<br>at Gojek</p>
+                            <!-- <ul>
+                                <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-linkedin"></i></a></li>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="card">
                         <div class="card-image">
-                            <img src="../assets/img/speakers/himang.jpeg" alt="" class="w-100">
+                            <img src="../assets/img/speakers/leon.jpg" alt="" class="w-100">
                         </div>
                         <div class="card-title">
-                            <h5>Himang Sharatun</h5>
-                            <p>Junior Back-End Engineer <br> at RuangGuru</p>
-                            <ul>
-                                <li><a href="https://www.linkedin.com/in/himang-sharatun-14b566137/" target="_blank"><i class="icon-linkedin"></i></a></li>
-                            </ul>
+                            <h5>Leontinus Pradhana</h5>
+                            <p>CTO<br>of Sirclo</p>
+                            <!-- <ul>
+                                <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-linkedin"></i></a></li>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="card">
                         <div class="card-image">
-                            <img src="../assets/img/speakers/wahyuni.jpg" alt="" class="w-100">
+                            <img src="../assets/img/speakers/satvik.jpg" alt="" class="w-100">
                         </div>
                         <div class="card-title">
-                            <h5>Wahyuni Puji Lestari</h5>
-                            <p>DevOps Engineer <br> at Universitas Islam Indonesia</p>
-                            <ul>
-                                <li><a href="https://www.linkedin.com/in/wahyuni-puji-lestari/" target="_blank"><i class="icon-linkedin"></i></a></li>
-                            </ul>
+                            <h5>Satvik Neelakant</h5>
+                            <p>Principal Engineer<br>at HaloDoc</p>
+                            <!-- <ul>
+                                <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-linkedin"></i></a></li>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="card">
                         <div class="card-image">
-                            <img src="../assets/img/speakers/siska.jpeg" alt="" class="w-100">
+                            <img src="../assets/img/speakers/sonja.jpg" alt="" class="w-100">
                         </div>
                         <div class="card-title">
-                            <h5>Siska Restu Anggraeny Iskandar</h5>
-                            <p>Engagement Team Member <br> GNOME Foundation</p>
-                            <ul>
-                                <li><a href="https://www.linkedin.com/in/seketika/" target="_blank"><i class="icon-linkedin"></i></a></li>
-                            </ul>
+                            <h5>Sonja Johar</h5>
+                            <p>CTO<br>of Halosis</p>
+                            <!-- <ul>
+                                <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-linkedin"></i></a></li>
+                            </ul> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3">
+                    <div class="card">
+                        <div class="card-image">
+                            <img src="../assets/img/speakers/nguyen.jpg" alt="" class="w-100">
+                        </div>
+                        <div class="card-title">
+                            <h5>TruongSinh Tran-Nguyen</h5>
+                            <p>Google Developer Expert<br>of Flutter</p>
+                            <!-- <ul>
+                                <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-linkedin"></i></a></li>
+                            </ul> -->
                         </div>
                     </div>
                 </div>

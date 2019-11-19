@@ -6,9 +6,9 @@
             </div>
             <div class="copyright d-flex justify-content-between">
                 <div>
-                    <img src="../assets/img/gdg-logo-dark.svg" alt="">
+                    <img src="../assets/img/gdg-jakarta-dark.svg" alt="">
                 </div>
-                <p>&#9400; GDG Jogjakarta. Made with <span>&#x2665;</span> in Yogyakarta</p>
+                <p>&#9400; GDG Jakarta</p>
             </div>
         </div>
     </footer>
