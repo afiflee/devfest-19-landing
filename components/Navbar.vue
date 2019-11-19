@@ -33,7 +33,7 @@
                     </li>
                     -->
                 </ul>
-                <div>
+                <div class="register-button">
                     <nuxt-link to="/#call-to-action">
                         <button class="btn btn-primary">Register</button>
                     </nuxt-link>
@@ -89,4 +89,15 @@ export default {
             padding-left: 15px !important
             padding-right: 15px !important
             height: 70px
+            .navbar-collapse
+                background-color: white
+                margin-left: -15px
+                margin-right: -15px
+                border-bottom: 1px solid #dedede
+                padding-bottom: 10px
+                margin-top: 5px
+                .navbar-nav
+                    margin-left: 8px !important
+                .register-button
+                    margin-left: 15px
 </style>

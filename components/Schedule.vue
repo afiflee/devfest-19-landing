@@ -3,14 +3,14 @@
         <div class="container">
             <table>
                 <tbody>
-                    <tr>
+                    <!-- <tr>
                         <td>
                             <p><strong>Time</strong></p>
                         </td>
                         <td>
                             <p><strong>Topic</strong></p>
                         </td>
-                    </tr>
+                    </tr> -->
                     <tr>
                         <td>
                             <p>8-9am&nbsp;</p>
@@ -29,7 +29,7 @@
                     </tr>
                     <tr>
                         <td>&nbsp;</td>
-                        <td>
+                        <td class="title">
                             <p><strong>Tech Talk: AI, ML &amp; Cloud</strong></p>
                         </td>
                     </tr>
@@ -72,7 +72,7 @@
                     </tr>
                     <tr>
                         <td>&nbsp;</td>
-                        <td>
+                        <td class="title">
                             <p><strong>Tech Talk: Web, Flutter</strong></p>
                         </td>
                     </tr>
@@ -137,7 +137,7 @@
                     </tr>
                     <tr>
                         <td>&nbsp;</td>
-                        <td>
+                        <td class="title">
                             <p><strong>Tech Talk: Android</strong></p>
                         </td>
                     </tr>
@@ -198,10 +198,31 @@
         background-color: #e8f0fe
         padding: 100px 0
         table
+            border-collapse: separate
+            border-spacing: 5px 1em
             tr
-                border-bottom: 1px solid #dedede
+                // border-bottom: 1px solid #dedede
                 td
                     padding: 8px 5px
                     p
                         margin: 0
+                td:nth-child(1)
+                    font-size: 20px
+                    font-weight: 300
+                td:nth-child(2)
+                    border: 1px solid #dedede
+                    border-radius: 6px
+                    background-color: #fefefe
+                    margin: 10px 0
+                    padding: 15px 22px
+                    ul
+                        padding-left: 20px
+                td:nth-child(2):hover
+                    background-color: #fafafa
+                .title
+                    background-color: transparent !important
+                    border: none !important
+                    p
+                        font-size: 20px
+                        padding: 10px 0
 </style>
