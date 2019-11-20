@@ -45,5 +45,8 @@ module.exports = {
   serverMiddleware: [
     // API middleware
     '~/api/index.js'
+  ],
+  plugins: [
+    { src: '~plugins/ga.js', mode: 'client' }
   ]
 }
