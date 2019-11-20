@@ -58,6 +58,8 @@
     
     @include media-breakpoint-down(md)
         footer
+            .social
+                justify-content: center
             .copyright
                 flex-direction: column
                 text-align: center
