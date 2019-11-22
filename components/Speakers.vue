@@ -36,7 +36,7 @@
                             <img src="../assets/img/speakers/denny.jpeg" alt="" class="w-100">
                         </div>
                         <div class="card-title">
-                            <h5>Danny Muktar</h5>
+                            <h5>Denny Muktar</h5>
                             <p> Cloud Customer Consultant <br> at Google</p>
                             <!-- <ul>
                                 <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-linkedin"></i></a></li>

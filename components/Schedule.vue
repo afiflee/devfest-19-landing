@@ -38,7 +38,7 @@
                             <p>9.20-9.40am</p>
                         </td>
                         <td>
-                            <p>Google Cloud Platform (Denny Muktar, Cloud Customer Consultant at Google)&nbsp;</p>
+                            <p>Denny Muktar, Cloud Customer Consultant at Google</p>
                         </td>
                     </tr>
                     <tr>
@@ -54,7 +54,7 @@
                             <p>10.00-10.20am</p>
                         </td>
                         <td>
-                            <p>ML (Satvik Neelakant, Principal Engineer at Halodoc)</p>
+                            <p>Satvik Neelakant, Principal Engineer at Halodoc</p> 
                         </td>
                     </tr>
                     <tr>
