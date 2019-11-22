@@ -54,7 +54,7 @@
                             <p>10.00-10.20am</p>
                         </td>
                         <td>
-                            <p>Satvik Neelakant, Principal Engineer at Halodoc</p> 
+                            <p>Consultations Quality at Halodoc (Satvik Neelakant, Principal Engineer at Halodoc)</p>
                         </td>
                     </tr>
                     <tr>
