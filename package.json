@@ -17,8 +17,8 @@
     "bootstrap": "^4.3.1",
     "cross-env": "^5.2.0",
     "express": "^4.16.4",
-    "jquery": "^3.4.1",
-    "node-sass": "^4.13.0",
+    "jquery": "^3.5.1",
+    "node-sass": "^4.14.1",
     "nuxt": "latest",
     "sass-loader": "^8.0.0",
     "source-map-support": "^0.4.18"
