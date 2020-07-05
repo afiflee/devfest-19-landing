@@ -1,26 +1,16 @@
 <template>
     <section id="about">
         <div class="container">
-            <div class="about-group">
+            <div class="about-group photo-group">
                 <div class="row">
                     <div class="gdg col-12 col-md-6">
                         <h3>What is GDG?</h3>
-                        <p>Google Developer Group Jakarta (GDG Jakarta) is an open group of people who are interested in having open discussion about Google technologies. There are many froms of activities like watching videos together, open discussion, or gatherings.</p>
-                        <p>About different Google technologies</p>
-                        <ul class="products">
-                            <li><img src="../assets/img/products/android.svg" alt=""></li>
-                            <li><img src="../assets/img/products/kotlin.svg" alt=""></li>
-                            <li><img src="../assets/img/products/flutter.svg" alt=""></li>
-                            <li><img src="../assets/img/products/google-cloud.svg" alt=""></li>
-                            <li><img src="../assets/img/products/firebase.svg" alt=""></li>
-                            <li><img src="../assets/img/products/angular.svg" alt=""></li>
-                        </ul>
+                        <p>Google Developer Group is an open group of people who are interested in having open discussion about Google technologies. There are many froms of activities like watching videos together, open discussion, or gatherings.</p>
+                        <p>When you join a Google Developer Group, you'll have the opportunity to meet local developers with similar interests in technology. A GDG meetup event includes talks on a wide range of technical topics where you can learn new skills through hands-on workshops. The community prides itself on being an inclusive environment where everyone and anyone interested in tech - from beginner developers to experienced professionals - all are welcome to join.</p>
                     </div>
-                    <div class="devfest col-12 col-md-6">
-                        <h3>What is DevFest?</h3>
-                        <p>GDG Devfest is the biggest annual event of GDG Jakarta. This is an event for developers and tech-enthusiasts that is led by communities and experts.</p>
-                        <p>This year, GDG Jakarta presents experts of Android, Web, Machine Learning, Google Cloud, Flutter, Google Assistant, and other Google newest technologies. They will share knowledge and experience with developers and tech-enthusiasts in Jakarta in order to support innovations that are useful and empowering the developer community.</p>
-                    </div>
+                    <div class="devfest photo-group photo-item col-12 col-md-6">
+                        <img src="../assets/img/gdgorganizers.jpg" alt="" class="w-100">
+                   </div>
                 </div>
             </div>
         </div>
@@ -49,4 +39,15 @@
             .about-group
                 .devfest
                     margin-top: 25px
+
+    #about
+        padding: 50px 0
+        .photo-group
+            .photo-item
+                padding: 10px
+                img
+                    border-radius: 10px
+                    height: 300px
+                    object-fit: cover
+                    object-position: center center
 </style>

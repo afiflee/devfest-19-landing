@@ -2,11 +2,10 @@
     <section id="call-to-action">
         <div class="container">
             <div class="text-center">
-                <p>Register now, seats are limited!</p>
+                <p>Let's make a good things, together!</p>
                 <a href="http://bit.ly/jkt-devfest-19" target="_blank">
-                    <button class="btn btn-primary btn-lg">Register Now</button>
-                </a> <br> <br>
-                <!-- <small>*This event will run a parallel session. make sure you already know the session you want to join.</small> -->
+                    <button class="btn btn-primary btn-lg">Join us!</button>
+                </a> 
             </div>
         </div>
     </section>

@@ -1,7 +1,7 @@
 <template>
     <section id="photo-hightlight">
         <div class="container">
-            <h3 class="pb-2">#DevFest18 Highlight</h3>
+            <h3 class="pb-2">#GDGJakarta Highlight</h3>
             <div class="photo-group row">
                 <div class="photo-item col-6 col-lg-3">
                     <img src="../assets/img/devfest18/1.jpg" alt="" class="w-100">
@@ -22,6 +22,12 @@
                     <img src="../assets/img/devfest18/6.jpg" alt="" class="w-100">
                 </div>
             </div>
+        </div>
+        <br>
+        <div class="text-center">
+            <a href="http://bit.ly/jkt-devfest-19" target="_blank">
+                <button class="btn btn-primary btn-lg">See more photos</button>
+            </a> 
         </div>
     </section>
 </template>

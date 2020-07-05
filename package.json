@@ -1,8 +1,8 @@
 {
-  "name": "devfest-19-landing",
+  "name": "gdgjakarta-org",
   "version": "1.0.0",
-  "description": "DevFest 2019 Jakarta Landing Page",
-  "author": "Erdiawan Anna <erdie.one@gmail.com>",
+  "description": "GDG Jakarta Website",
+  "author": "P Adhi Nugroho <putranto@adhinugroho.com>",
   "private": true,
   "scripts": {
     "dev": "nuxt",

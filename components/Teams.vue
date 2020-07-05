@@ -10,9 +10,12 @@
                         <div class="card-title">
                             <h5>Anbita Nadine Siregar</h5>
                             <p>Founder <br> of Generation Girl</p>
-                            <!-- <ul>
+                            <ul>
+                                <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-github"></i></a></li>
+                                <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-twitter"></i></a></li>
+                                <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-instagram"></i></a></li>
                                 <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-linkedin"></i></a></li>
-                            </ul> -->
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -24,9 +27,9 @@
                         <div class="card-title">
                             <h5>Andrew Kurniadi</h5>
                             <p>Google Developer Expert <br> of Android</p>
-                            <!-- <ul>
+                            <ul>
                                 <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-linkedin"></i></a></li>
-                            </ul> -->
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -38,9 +41,9 @@
                         <div class="card-title">
                             <h5>Denny Muktar</h5>
                             <p> Cloud Customer Consultant <br> at Google</p>
-                            <!-- <ul>
+                            <ul>
                                 <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-linkedin"></i></a></li>
-                            </ul> -->
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -52,9 +55,9 @@
                         <div class="card-title">
                             <h5>Esa Firman</h5>
                             <p>Mobile Developer<br> at Bukalapak</p>
-                            <!-- <ul>
+                            <ul>
                                 <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-linkedin"></i></a></li>
-                            </ul> -->
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -66,9 +69,9 @@
                         <div class="card-title">
                             <h5>Henry Priyono</h5>
                             <p>Senior Software Engineer<br> at Tokopedia</p>
-                            <!-- <ul>
+                            <ul>
                                 <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-linkedin"></i></a></li>
-                            </ul> -->
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -80,9 +83,9 @@
                         <div class="card-title">
                             <h5>Ibnu Sina Wardy</h5>
                             <p>Founder<br>of Gits Indonesia</p>
-                            <!-- <ul>
+                            <ul>
                                 <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-linkedin"></i></a></li>
-                            </ul> -->
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -94,9 +97,9 @@
                         <div class="card-title">
                             <h5>Ivan Kristianto</h5>
                             <p>Google Developer Expert<br>of Web Technologies</p>
-                            <!-- <ul>
+                            <ul>
                                 <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-linkedin"></i></a></li>
-                            </ul> -->
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -108,65 +111,9 @@
                         <div class="card-title">
                             <h5>Janice Kartika</h5>
                             <p>Software Engineer<br>at Gojek</p>
-                            <!-- <ul>
+                            <ul>
                                 <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-linkedin"></i></a></li>
-                            </ul> -->
-                        </div>
-                    </div>
-                </div>
-                <div class="col-6 col-lg-3">
-                    <div class="card">
-                        <div class="card-image">
-                            <img src="../assets/img/speakers/leon.jpg" alt="" class="w-100">
-                        </div>
-                        <div class="card-title">
-                            <h5>Leontinus Pradhana</h5>
-                            <p>CTO<br>of Sirclo</p>
-                            <!-- <ul>
-                                <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-linkedin"></i></a></li>
-                            </ul> -->
-                        </div>
-                    </div>
-                </div>
-                <div class="col-6 col-lg-3">
-                    <div class="card">
-                        <div class="card-image">
-                            <img src="../assets/img/speakers/satvik.jpg" alt="" class="w-100">
-                        </div>
-                        <div class="card-title">
-                            <h5>Satvik Neelakant</h5>
-                            <p>Principal Engineer<br>at HaloDoc</p>
-                            <!-- <ul>
-                                <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-linkedin"></i></a></li>
-                            </ul> -->
-                        </div>
-                    </div>
-                </div>
-                <div class="col-6 col-lg-3">
-                    <div class="card">
-                        <div class="card-image">
-                            <img src="../assets/img/speakers/sonja.jpg" alt="" class="w-100">
-                        </div>
-                        <div class="card-title">
-                            <h5>Sonja Johar</h5>
-                            <p>CTO<br>of Halosis</p>
-                            <!-- <ul>
-                                <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-linkedin"></i></a></li>
-                            </ul> -->
-                        </div>
-                    </div>
-                </div>
-                <div class="col-6 col-lg-3">
-                    <div class="card">
-                        <div class="card-image">
-                            <img src="../assets/img/speakers/nguyen.jpg" alt="" class="w-100">
-                        </div>
-                        <div class="card-title">
-                            <h5>TruongSinh Tran-Nguyen</h5>
-                            <p>Google Developer Expert<br>of Flutter</p>
-                            <!-- <ul>
-                                <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-linkedin"></i></a></li>
-                            </ul> -->
+                            </ul> 
                         </div>
                     </div>
                 </div>

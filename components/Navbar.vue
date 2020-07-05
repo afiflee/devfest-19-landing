@@ -11,16 +11,21 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto ml-3">
                     <li class="nav-item">
-                        <div class="nav-link"><nuxt-link to="/speakers">Speakers</nuxt-link></div>
+                        <div class="nav-link"><nuxt-link to="/">Home</nuxt-link></div>
                     </li>
                     <li class="nav-item">
-                        <div class="nav-link"><nuxt-link to="/schedule">Schedule</nuxt-link></div>
+                        <div class="nav-link"><nuxt-link to="/">About</nuxt-link></div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" target="_blank" href="https://devfest.withgoogle.com/code-of-conduct">Code of Conduct</a>
+                        <div class="nav-link"><nuxt-link to="/">Events</nuxt-link></div>
                     </li>
-                    <!--
-                    <li class="nav-item dropdown">
+                    <li class="nav-item">
+                        <div class="nav-link"><nuxt-link to="/teams">Team</nuxt-link></div>
+                    </li>
+                    <li class="nav-item">
+                        <div class="nav-link"><nuxt-link to="/">Schedule</nuxt-link></div>
+                    </li>
+                    <!--<li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Dropdown
                         </a>
@@ -30,12 +35,11 @@
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="#">Something else here</a>
                         </div>
-                    </li>
-                    -->
+                    </li>-->
                 </ul>
                 <div class="register-button">
                     <nuxt-link to="/#call-to-action">
-                        <button class="btn btn-primary">Register</button>
+                        <button class="btn btn-primary">Join us!</button>
                     </nuxt-link>
                 </div>
             </div>

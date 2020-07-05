@@ -2,7 +2,7 @@
     <section id="video-teaser">
         <div class="text-center">
             <div class="video-teaser-group">
-                <iframe width="950" height="550" src="https://www.youtube.com/embed/hTJ_-MxHKMY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="950" height="550" src="https://www.youtube.com/embed/KlWVfEiW7Ak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
     </section>

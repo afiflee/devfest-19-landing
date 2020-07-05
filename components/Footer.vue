@@ -8,13 +8,14 @@
                     <li><a href="https://www.facebook.com/gdgjakarta/" target="_blank"><img src="../assets/img/icons/facebook.svg" alt=""></a></li>
                     <li><a href="https://twitter.com/gdgjkt" target="_blank"><img src="../assets/img/icons/twitter.svg" alt=""></a></li>
                     <li><a href="https://www.instagram.com/gdgjakarta/" target="_blank"><img src="../assets/img/icons/instagram.svg" alt=""></a></li>
+                    <li><a href="https://www.youtube.com/gdgjakarta" target="_blank"><img src="../assets/img/icons/youtube.svg" alt=""></a></li>
                 </ul>
             </div>
             <div class="copyright d-flex justify-content-between">
                 <div>
                     <img src="../assets/img/gdg-jakarta-dark.svg" alt="">
                 </div>
-                <p>&#9400; 2019. GDG Jakarta - <a href="https://github.com/gdgindonesia/devfest-19-landing" target="_blank">Source Code</a></p>
+                <p>&#9400; 2020. Made by GDG Jakarta - <a href="https://github.com/gdgindonesia/devfest-19-landing" target="_blank">Source Code</a></p>
             </div>
         </div>
     </footer>

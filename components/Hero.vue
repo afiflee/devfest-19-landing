@@ -3,12 +3,11 @@
         <div class="container">
             <div class="hero-group d-flex justify-content-center align-items-center text-center">
                 <div class="hero-content">
-                    <img src="../assets/img/devfest-logo.svg" alt=""><br>
+                    <img src="" alt=""><br>
                     <div class="hero-desc">
-                        <p class="mb-2">Jakarta, November 23, 2019</p>
-                        <p><b>Upperroom Jakarta</b></p> 
-                        <p class="address">Annex Building Lantai 10-12, <br> Jl. M.H. Thamrin No.59, Gondangdia, <br> Kec. Menteng, Kota Jakarta Pusat, DKI Jakarta</p>
-                    </div>
+                        <p class="mb-2"></p>
+                        <p><b></b></p> 
+                   </div>
                 </div>
             </div>
             <a href="#about" class="scroll-down"></a>

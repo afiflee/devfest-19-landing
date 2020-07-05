@@ -14,6 +14,7 @@ import PhotoHighlight from '~/components/PhotoHighlight.vue'
 import VideoTeaser from '~/components/VideoTeaser.vue'
 import Partners from '~/components/Partners.vue'
 import MyFooter from '~/components/Footer.vue'
+import NextEvent from '~/components/NextEvent.vue'
 
 export default {
   components: {
@@ -22,6 +23,7 @@ export default {
     About,
     PhotoHighlight,
     VideoTeaser,
+    NextEvent,
     Partners,
     MyFooter
   }
