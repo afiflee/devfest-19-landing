@@ -2,41 +2,21 @@
     <section id="speaker">
     <div class="container">
         <h3 class="pb-2">#GDGJakarta Next Event</h3>
-            <div class="row">
-                <div class="col-6 col-lg-6">
+            <div class="container">
+                <div class="col-12 col-lg-12">
                     <div class="card">
-                        <div class="card-image">
+                        <div class="card-image card-title">
                             <img src="../assets/img/speakers/anbita.jpeg" alt="" class="w-100">
-                        </div>
                         <div class="card-title">
                             <h5>Anbita Nadine Siregar</h5>
                             <p>Founder <br> of Generation Girl</p>
-                            <ul>
-                                <div class="text-center">
-                                    <a href="http://bit.ly/jkt-devfest-19" target="_blank">
-                                        <button class="btn btn-primary btn-lg">Register here</button>
-                                    </a> 
-                                </div>
-                            </ul>
+                    </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-6 col-lg-6">
-                    <div class="card">
-                        <div class="card-image">
-                            <img src="../assets/img/speakers/andrew.jpg" alt="" class="w-100">
-                        </div>
-                        <div class="card-title">
-                            <h5>Andrew Kurniadi</h5>
-                            <p>Google Developer Expert <br> of Android</p>
-                            <ul>
-                                <li><a href="https://www.linkedin.com/in/anbitasiregar" target="_blank"><i class="icon-linkedin"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
+
                 </div>
             </div>
-    </div>
+     </div>
     </section>
 </template>
 
@@ -47,12 +27,12 @@
         .card
             padding: 20px
             transition: 0.3s
-            text-align: center
+            text-align: left
             margin: 15px 0
             .card-image
                 img
-                    max-width: 150px
-                    border-radius: 50%
+                    max-width: 200px
+                    border-radius: 20%
                     margin-left: auto
                     margin-right: auto
             .card-title

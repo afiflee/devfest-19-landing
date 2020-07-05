@@ -3,11 +3,11 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: 'DevFest 2019 Jakarta',
+    title: 'GDG Jakarta',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'GDG Devfest is the biggest annual event of GDG Jakarta. This is an event for developers and tech-enthusiasts that is led by communities and experts.' }
+      { hid: 'description', name: 'description', content: 'GDG is communities' }
     ],
     link: [
       { rel: 'icon', type: 'image/png', href: '/favicon.png' },
