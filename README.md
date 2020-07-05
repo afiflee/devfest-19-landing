@@ -1,6 +1,6 @@
-# devfest-19-landing
+# GDG Jakarta
 
-> GDG Jakarta
+> GDG Jakarta website landing page
 
 ## Build Setup
 
